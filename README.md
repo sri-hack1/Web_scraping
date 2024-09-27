@@ -1,5 +1,3 @@
-# Web_scraping
-
 # Web Scraping Projects
 
 This repository contains beginner-level web scraping projects implemented in Python using Beautiful Soup (bs4), Requests, and Pandas. These projects demonstrate the basics of web scraping, including fetching web pages, parsing HTML, and extracting data for analysis.
