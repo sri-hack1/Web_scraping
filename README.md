@@ -13,11 +13,9 @@ This repository contains beginner-level web scraping projects implemented in Pyt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/web-scraping-projects.git
-2. Navigate to project directory:
-   ```bash
-   cd web-scraping-projects
-3. Install the required libraries:
+   git clone https://github.com/sri-hack1/Web_scraping.git
+   
+2. Install the required libraries:
    ```bash
    pip install requests beautifulsoup4 pandas
 
